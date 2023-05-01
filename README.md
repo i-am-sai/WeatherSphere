@@ -1,7 +1,7 @@
 # Weather-Report-Web-Application
 This is a web application that uses HTML, CSS, JavaScript, and Express.js to fetch and display weather information for a specified city using a weather API. The application is designed to run on a local host and can be easily accessed through a web browser.
 
-Features
+Features : 
 The main features of this application include:
 Ability to enter a city name and fetch weather information through a weather API
 Display of current weather conditions, such as temperature, humidity, wind speed, and pressure
