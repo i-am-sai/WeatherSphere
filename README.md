@@ -4,7 +4,8 @@ This is a web application that uses HTML, CSS, JavaScript, and Express.js to fet
 Features : 
 The main features of this application include:
 Ability to enter a city name and fetch weather information through a weather API
-Display of current weather conditions, such as temperature, humidity, wind speed, and pressure
+Display of current 
+weather conditions, such as temperature, humidity, wind speed, and pressure
 Dynamic display of weather icons and backgrounds depending on weather conditions
 Error handling for invalid city names or API requests
 Technologies Used
@@ -33,3 +34,5 @@ Adding a feature to show a 5-day weather forecast
 Adding support for mobile devices and responsive design
 Author
 This web application was developed by Sai Swaroop. If you have any questions or suggestions, please contact me at saiswaroopkdevarmane@gmail.com.
+![image](https://github.com/i-am-sai/Weather-Report-Web-Application/assets/131809064/4b54cf62-68b3-4989-a2ab-a84609dd695f)
+
