@@ -79,9 +79,15 @@ app.post("/", function (req, res) {
     })
 })
 
+<<<<<<< HEAD
 app.listen(8080, function () {
 
     console.log("Server is running on port 8080.");
+=======
+app.listen(3000, function){
+
+    console.log("Server is running on port 3000";
+>>>>>>> f67293c30e9b01c5a2b6b7ab9354305afaae22a0
 })
 
 
