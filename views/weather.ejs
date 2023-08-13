@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Weather Report</title>
+    <link rel="stylesheet" type="text/css" href="ejs.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="animate__animated animate__bounce animate__delay-2s">Current Weather in <%= city %>
+        </h1>
+        <div class="weather-info">
+            <div class="weather-icon">
+                <img src="<%= imageURL %>" alt="weather icon">
+            </div>
+            <div class="weather-description">
+                <p>The temperature is <strong>
+                        <%= temp %> &#8451;
+                    </strong></p>
+                <p>The weather is currently <strong>
+                        <%= temp1 %>
+                    </strong></p>
+                <p>The pressure is <strong>
+                        <%= pressure %> hPa
+                    </strong></p>
+                <p>The humidity is <strong>
+                        <%= humidity %> %
+                    </strong></p>
+                <p>The wind speed is <strong>
+                        <%= speed %> m/s
+                    </strong></p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

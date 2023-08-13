@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F0F8FF;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.weather-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.weather-icon img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.weather-description {
+    text-align: left;
+}
+
+.weather-description p {
+    margin: 10px 0;
+}
+
+/* Additional styles for responsiveness */
+@media screen and (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+    h1 {
+        font-size: 2em;
+    }
+}
