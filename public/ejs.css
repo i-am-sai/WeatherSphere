@@ -3,6 +3,8 @@ body {
     padding: 0;
     background-color: #F0F8FF;
     font-family: Arial, sans-serif;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRazwDGRlKTTQPUVjLOmXpcIVYbWnUkyUtarQ&usqp=CAU);
+    background-size: cover;
 }
 
 .container {
