@@ -34,5 +34,5 @@ Adding a feature to show a 5-day weather forecast
 Adding support for mobile devices and responsive design
 Author
 This web application was developed by Sai Swaroop. If you have any questions or suggestions, please contact me at saiswaroopkdevarmane@gmail.com.
-![image](https://github.com/i-am-sai/Weather-Report-Web-Application/assets/131809064/4b54cf62-68b3-4989-a2ab-a84609dd695f)
 
+![image](https://github.com/i-am-sai/Weather-Report-Web-Application/assets/131809064/ab5b2e2d-2c8f-4d7d-a6da-307970bf58e0)
